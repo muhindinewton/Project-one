@@ -29,3 +29,22 @@ This is a simple web application that allows users to add animals for adoption, 
    ```bash
    git clone https://github.com/your-username/animal-adoption-app.git
    cd animal-adoption-app
+
+## Usage
+
+### Add an Animal:
+- Fill out the form with the animal's name, image URL, and description.
+- Click **"Submit"** to add the animal to the adoption list.
+
+### Donate to an Animal:
+- Click the **"Donate $10"** button on an animal's card to increase its donation amount.
+
+### Remove an Animal:
+- Click the **"Set Free"** button on an animal's card to remove it from the adoption list.
+
+## Project Structure
+
+
+## License
+
+This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.

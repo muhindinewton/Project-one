@@ -18,7 +18,7 @@
       "name": "Giraffe",
       "imageUrl": "https://images.unsplash.com/photo-1534567110243-8875d64ca8ff?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "description": "Giraffes are the tallest mammals on Earth. They eat grass.",
-      "donations": 40,
+      "donations": 60,
       "id": 3
     },
     {
@@ -39,7 +39,7 @@
       "name": "Panda",
       "imageUrl": "https://images.unsplash.com/photo-1597953601374-1ff2d5640c85?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "description": "Pandas are known for their black and white fur and love for bamboo.",
-      "donations": 0,
+      "donations": 10,
       "id": 6
     },
     {
